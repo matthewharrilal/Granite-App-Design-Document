@@ -1,0 +1,118 @@
+## Table of Contents
+  * [App Design](#app-design)
+    * [Objective](#objective)
+    The objective of the application is to find local programmers near you
+    
+    * [Audience](#audience)
+    People of all ages who have the desire to code
+    * [Experience](#experience)
+    None at all, they can filter their experience levels
+  * [Technical](#technical)
+    * [Screens](#Screens)
+    10 screens Total
+    * [External services](#external-services)
+    Google Maps
+    Google Places
+    Google Directions
+    Tinder API
+    Firebase
+    
+    * [Views, View Controllers, and other Classes](#Views-View-Controllers-and-other-Classes)
+  * [MVP Milestones](#mvp-milestones)
+    * [Week 1](#week-1)
+    Simply get the layout right and implement firebase
+    In addition to this have map kit locate the users location
+    Has been completed
+    * [Week 2](#week-2)
+    Be able to find a users location using their profile
+    Enbale Log in functionality
+      
+    * [Week 3](#week-3)
+    Enable Alerts and have the users appear in real time
+    Have users be able to change their profile picture 
+    Enable Tinder and Polish Mapping functionality
+    * [Week 4](#week-4)
+    Polish Tinder as well as filter users through interests
+    Have two separate profile view controllers one for genral users to see and one only the current user logged in can see
+    
+    * [Week 5](#week-5)
+    Be able to increase range of the distance covered using the settings view controller
+    Overall polishing the application
+    * [Week 6](#week-6)
+    Improve UI and polish overall features
+
+---
+
+### App Design
+
+#### Objective
+[explain the goal of the app]
+Find local Programmers near you
+
+#### Audience
+[who is this app targeting?]
+All ages and anyone who has an interest in coding
+#### Experience
+[how will your users interact with this app?]
+Signing Up and being able to filter through users with tinder like functionality
+[Back to top ^](#)
+
+---
+
+### Technical
+
+#### Screens
+* [list the different screens used in the app]
+Settings, Submit Interests, Dual Profile View Controllers, Seeing active users, Directions View Controller
+#### External services
+* [list which APIs or external services will your app use?]
+Tinder Maybe Chat Messaging 
+
+#### Views, View Controllers, and other Classes
+* Views
+  * [list all views you will need]
+  10
+* View Controllers
+  * [list all view controllers you will need
+  10
+* Other Classes
+  * [list any other classes you will need]
+
+#### Data models
+* [list all Firebase data models your app will need]
+
+[Back to top ^](#)
+
+---
+
+### MVP Milestones
+[The overall milestones of first usable build, core features, and polish are just suggestions, plan to finish earlier if possible. The last 20% of work tends to take about as much time as the first 80% so do not slack off on your milestones!]
+Have mapping functionality
+Solid Login Functionality
+Having interactable profiles
+Increase Range with the settings
+Being able to increase the range of the distance covered by the user by using the settings 
+#### Week 1
+_planning your app_
+* [goals for the week]
+ANSWERED THIS ABOVE
+
+
+#### Week 2
+_finishing a usable build_
+* [goals for the week, should be finishing a usable app]
+ANSWERED THIS ABOVE
+#### Week 3
+* [goals for the week]
+ANSWERED THIS ABOVE
+#### Week 4
+* [goals for the week, should be finishing all core features]
+ANSWERED THIS ABOVE
+#### Week 5
+_starting the polish_
+* [goals for the week]
+ANSWERED THIS ABOVE
+#### Week 6
+_submitting to the App Store_
+* [goals for the week, should be finishing the polish -- demo day on Saturday!]
+ANSWERED THIS ABOVE
